@@ -1,0 +1,63 @@
+PODS:
+  - Alamofire (4.2.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - MJRefresh (3.1.12)
+  - ObjectMapper (2.2.2)
+  - RongCloudIM/IMKit (2.8.4):
+    - RongCloudIM/IMLib
+  - RongCloudIM/IMLib (2.8.4)
+  - RxAlamofire (3.0.2):
+    - RxAlamofire/Core (= 3.0.2)
+  - RxAlamofire/Core (3.0.2):
+    - Alamofire (~> 4.0)
+    - RxSwift (~> 3.0)
+  - RxCocoa (3.1.0):
+    - RxSwift (~> 3.1)
+  - RxDataSources (1.0.2):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - RxSwift (3.1.0)
+  - SnapKit (3.1.2)
+  - Spring (1.0.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage (~> 3.1)
+  - MJRefresh
+  - ObjectMapper
+  - RongCloudIM/IMKit (~> 2.8.3)
+  - RongCloudIM/IMLib (~> 2.8.3)
+  - RxAlamofire
+  - RxCocoa
+  - RxDataSources
+  - RxSwift (~> 3.1.0)
+  - SnapKit (~> 3.1.2)
+  - Spring (from `https://github.com/MengTo/Spring.git`, branch `swift3`)
+
+EXTERNAL SOURCES:
+  Spring:
+    :branch: swift3
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 3a9227c6e9157e7b47f5ac1ee5abab2a56b50002
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  ObjectMapper: 9e385c2295bcc4e16eabbcfc85db801442bba545
+  RongCloudIM: 8b110800cf0c3a0b32e971fc62e9f214882d5927
+  RxAlamofire: bc53604b29fd2d220cfaa490c736cc4500819f34
+  RxCocoa: 50d7564866da9299161e86a263ce12a0873904d8
+  RxDataSources: 1de77880bf5b7fcee42102adcd5a5d65e5b81541
+  RxSwift: 83ff553e7593fdfdcb2562933a64c0284dffdadc
+  SnapKit: 12b24f569cb7c143acc9c22b9d91b23e7b1c84a2
+  Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
+
+PODFILE CHECKSUM: 1d32035d805376469107270bcdcde3f5570c814a
+
+COCOAPODS: 1.0.0
